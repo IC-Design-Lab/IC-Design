@@ -1,8 +1,13 @@
-# IC-Design
+# IC-Design 
+<img src="https://github.com/user-attachments/assets/f5edae67-a442-44ba-b98f-09f4a226cf27"
+     alt="Integrated Circuit Design Book"
+     width="180"
+     align="right">
 
 Hi,
 
-I am the author of the book Integrated Circuit Design: IC Design Flow and Project-Based Learning. I encourage you to fully utilize the resources and supporting materials associated with the textbook, as they are designed to significantly enhance both conceptual understanding and practical implementation skills.
+I am the author of the book **_Integrated Circuit Design: IC Design Flow and Project-Based Learning_**.  
+I encourage you to fully utilize the resources and supporting materials associated with the textbook, as they are designed to significantly enhance both conceptual understanding and practical implementation skills.
 
 You are welcome to use and share the following materials in your teaching, learning, and professional activities:
 
