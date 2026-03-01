@@ -1,7 +1,7 @@
 # IC-Design 
 <img src="https://github.com/user-attachments/assets/f5edae67-a442-44ba-b98f-09f4a226cf27"
      alt="Integrated Circuit Design Book"
-     width="180"
+     width="150"
      align="right">
 
 Hi,
